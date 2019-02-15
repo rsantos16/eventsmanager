@@ -1,0 +1,76 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Beach Cleanup",
+            "date": "Aug 28 2018",
+            "time": "10:00",
+            "location": "Daytona Beach",
+            "description": "Let's clean up this beach.",
+            "organizer": "Eric Clapton",
+            "category": "sustainability",
+            "attendees": [
+                {
+                    "id": "abc123",
+                    "name": "Eric Clapton"
+                },
+                {
+                    "id": "def456",
+                    "name": "Tito Puentes"
+                },
+                {
+                    "id": "ghi789",
+                    "name": "Margarita Perez"
+                },
+                {
+                    "id": "jkl101",
+                    "name": "Josefina Almonte"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Park Cleanup",
+            "date": "Nov 12 2018",
+            "time": "12:00",
+            "location": "132 N Magnolia Street, Orlando, Florida",
+            "description": "We're going to clean up this park.",
+            "organizer": "Eric Clapton",
+            "category": "nature",
+            "attendees": [
+                {
+                    "id": "ghi789",
+                    "name": "Margarita Perez"
+                },
+                {
+                    "id": "jkl101",
+                    "name": "Josefina Almonte"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Pet Adoption Day",
+            "date": "Dec 2 2018",
+            "time": "12:00",
+            "location": "132 N Magnolia Street, Orlando, Florida",
+            "description": "Help animals find new homes.",
+            "organizer": "Tito Puentes",
+            "category": "animal welfare",
+            "attendees": [
+                {
+                    "id": "abc123",
+                    "name": "Eric Clapton"
+                },
+                {
+                    "id": "ghi789",
+                    "name": "Margarita Perez"
+                },
+                {
+                    "id": "jkl101",
+                    "name": "Josefina Almonte"
+                }
+            ]
+        }
+    ]
+}
