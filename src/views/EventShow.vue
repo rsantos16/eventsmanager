@@ -1,3 +1,12 @@
 <template>
-  <h1>Showing event #1</h1>
+  <h1>Showing event {{id}}</h1>
 </template>
+
+<script lang="ts">
+import { Component, Prop, Vue } from "vue-property-decorator";
+
+@Component
+export default class EventShow extends Vue {
+  @Prop() private id!: number;
+}
+</script>
